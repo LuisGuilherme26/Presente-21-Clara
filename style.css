@@ -13,6 +13,11 @@ body {
     background-color: #57CC99;
 }
 
+#particles-js{
+    height: 100%;
+    background: #fff;
+}
+
 a {
     text-decoration: none;
     color: #fff;
